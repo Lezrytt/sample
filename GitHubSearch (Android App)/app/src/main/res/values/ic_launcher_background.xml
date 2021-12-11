@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="ic_launcher_background">#BAC3BC</color>
+=======
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#BAC3BC</color>
+>>>>>>> 3dc3a5eb4e2ce7fd0a847a5e503f9c044b7b6892
 </resources>

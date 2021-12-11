@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
@@ -6,4 +7,14 @@
         android:icon="@drawable/ic_baseline_favorite_24"
         android:title="@string/favorites"
         app:showAsAction="collapseActionView|always"/>
+=======
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/favoritesMenu"
+        android:icon="@drawable/ic_baseline_favorite_24"
+        android:title="@string/favorites"
+        app:showAsAction="collapseActionView|always"/>
+>>>>>>> 3dc3a5eb4e2ce7fd0a847a5e503f9c044b7b6892
 </menu>
