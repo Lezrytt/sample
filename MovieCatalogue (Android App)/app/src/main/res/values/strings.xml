@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="movies">Movies</string>
+    <string name="tvShow">TV Show</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="movies_fragment">Movies Fragment</string>
+    <string name="MovieDescription">Movie Description Movie Description Movie Description Movie Description Movie Description Movie Description Movie Description Movie Description</string>
+    <string name="SplashScreen">Splash screen</string>
+    <string name="contentDescriptionPoster">Poster</string>
+    <string name="menu_newest">Newest</string>
+    <string name="menu_oldest">Oldest</string>
+    <string name="menu_random">Random</string>
+</resources>
