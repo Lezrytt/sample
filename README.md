@@ -9,7 +9,9 @@ Movie Catalogue (Android Apps) -> Kotlin
 
 OpenMusic Api
 https://github.com/Lezrytt/openmusic-api
- Build using hapi plugin
+ Build using hapi plugin.
+ 
+ 
   Feature:
   1. Caching
   2. Upload images
